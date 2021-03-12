@@ -1,6 +1,8 @@
 ### Hi 👋, I'm Dominik "Jabu2"
 #### A Node.js enthusiast.
 
+<img src="https://avatars.githubusercontent.com/u/31703017?s=460&u=2495e16d5bb1f81179e63d06f03123126976a140&v=4" width="300" height="300">
+
 <!--
 **Jabu2/Jabu2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
