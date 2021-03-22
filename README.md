@@ -1,7 +1,10 @@
 ### Hi 👋, I'm Dominik "Jabu2"
 #### A Node.js enthusiast.
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/>
+
 
 <img src="https://avatars.githubusercontent.com/u/31703017?s=460&u=2495e16d5bb1f81179e63d06f03123126976a140&v=4" width="300" height="300">
+
 
 <!--
 **Jabu2/Jabu2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
