@@ -1,4 +1,4 @@
-### Hi 👋, I'm Dominik "Jabu2"
+### Hi 👋, I'm Dominik
 #### A Node.js enthusiast.
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/>
 
